@@ -27,7 +27,7 @@ This project implements a simple yet effective brain tumor detection system that
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/brain-tumor-detection.git
+   git clone https://github.com/HarshG1308/Brain-tumor-detection.git
    cd brain-tumor-detection
    ```
 
